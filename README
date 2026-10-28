@@ -1,0 +1,10 @@
+MINIPROJECT 6
+"Electricity bill prediction using NEURAL NETWORKS"
+Project overview:
+   This project predicts the monthly electricity bill using a Neural Network model built with TensorFlow and Keras.
+   A simple Streamlit web application allows users to enter electricity consumption details and view the estimated bill.
+Objectives:
+   Predict monthly electricity bills using sample data.
+   Apply neural networks for regression.
+   Build an interactive web application using Streamlit.
+   Demonstrate model training, evaluation, and prediction.
